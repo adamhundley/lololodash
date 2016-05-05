@@ -1,0 +1,63 @@
+{
+  "name": "lololodash",
+  "version": "0.8.1",
+  "description": "A Set of Lo-Dash Javascript Exercises",
+  "main": "lololodash.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdunisch/lololodash.git"
+  },
+  "bin": {
+    "lololodash": "lololodash.js"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "lodash",
+    "underscore",
+    "workshopper"
+  ],
+  "author": {
+    "name": "mdunisch"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdunisch/lololodash/issues"
+  },
+  "homepage": "https://github.com/mdunisch/lololodash",
+  "dependencies": {
+    "colors-tmpl": "^1.0.0",
+    "diff": "^2.2.2",
+    "lodash": "^4.11.1",
+    "update-notifier": "^0.6.3",
+    "workshopper": "^2.7.0",
+    "workshopper-exercise": "^2.5.3"
+  },
+  "gitHead": "b2ed06e6236f10718e843eb1bc252f29dc0af38e",
+  "_id": "lololodash@0.8.1",
+  "scripts": {},
+  "_shasum": "54cd276373dc76f70048466074047b9dda487510",
+  "_from": "lololodash@latest",
+  "_npmVersion": "2.14.20",
+  "_nodeVersion": "4.4.0",
+  "_npmUser": {
+    "name": "mdunisch",
+    "email": "martin.dunisch@gmail.com"
+  },
+  "dist": {
+    "shasum": "54cd276373dc76f70048466074047b9dda487510",
+    "tarball": "https://registry.npmjs.org/lololodash/-/lololodash-0.8.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "mdunisch",
+      "email": "martin.dunisch@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/lololodash-0.8.1.tgz_1460724108817_0.7044203905388713"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lololodash/-/lololodash-0.8.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
