@@ -2,8 +2,8 @@
 
 var _ = require("lodash");
 
-var filterwhere = function (item) {
+var worker = function (item) {
     return _.filter(item, {active: true});
 };
 
-module.exports = filterwhere;
+module.exports = worker;
